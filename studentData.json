@@ -1,0 +1,487 @@
+[
+   [ 
+    {   
+        "studentId": 1,
+        "studentName": "Alex",
+        "studentEmail": "alex@gmail.com",
+        "studentPhone": 7779089023,
+        "batch": "B51 WD1 ENGLISH",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 2,
+        "studentName": "Arun",
+        "studentEmail": "arun@gmail.com",
+        "studentPhone": 9899089012,
+        "batch": "B51 WD1 ENGLISH",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 3,
+        "studentName": "Baskar",
+        "studentEmail": "baskar@gmail.com",
+        "studentPhone": 9179089031,
+        "batch": "B51 WD1 ENGLISH",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+
+[
+    {   
+        "studentId": 4,
+        "studentName": "Akshya",
+        "studentEmail": "akshya@gmail.com",
+        "studentPhone": 9809089020,
+        "batch": "B52 WD1 ENGLISH",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 5,
+        "studentName": "Arthi",
+        "studentEmail": "arthi@gmail.com",
+        "studentPhone": 9899089034,
+        "batch": "B52 WD1 ENGLISH",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 6,
+        "studentName": "Mency",
+        "studentEmail": "mency@gmail.com",
+        "studentPhone": 9179089036,
+        "batch": "B52 WD1 ENGLISH",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    }
+
+],
+
+[
+    {   
+        "studentId": 7,
+        "studentName": "Jemini",
+        "studentEmail": "jemini@gmail.com",
+        "studentPhone": 9809089001,
+        "batch": "B51 WD2 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 8,
+        "studentName": "josh",
+        "studentEmail": "josh@gmail.com",
+        "studentPhone": 9899089002,
+        "batch": "B51 WD2 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 9,
+        "studentName": "ishal",
+        "studentEmail": "ishal@gmail.com",
+        "studentPhone": 9179089003,
+        "batch": "B51 WD2 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+
+[
+    {   
+        "studentId": 10,
+        "studentName": "Amelie",
+        "studentEmail": "amelie@gmail.com",
+        "studentPhone": 9809089089,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 11,
+        "studentName": "Balu",
+        "studentEmail": "balu@gmail.com",
+        "studentPhone": 9899089078,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 12,
+        "studentName": "Gokul",
+        "studentEmail": "gokul@gmail.com",
+        "studentPhone": 9179089066,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00 PM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 13,
+        "studentName": "Chandru",
+        "studentEmail": "chandru@gmail.com",
+        "studentPhone": 9809089030,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 14,
+        "studentName": "Eswar",
+        "studentEmail": "eswar@gmail.com",
+        "studentPhone": 9899089040,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 15,
+        "studentName": "Hemalatha",
+        "studentEmail": "hemalatha@gmail.com",
+        "studentPhone": 9179089050,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 16,
+        "studentName": "Basa",
+        "studentEmail": "basa@gmail.com",
+        "studentPhone": 9809082209,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 17,
+        "studentName": "Edvin",
+        "studentEmail": "edvin@gmail.com",
+        "studentPhone": 9899082210,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 18,
+        "studentName": "Hasha",
+        "studentEmail": "hasha@gmail.com",
+        "studentPhone": 9179082211,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 19,
+        "studentName": "Mohamed",
+        "studentEmail": "mohamed@gmail.com",
+        "studentPhone": 9809082212,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 20,
+        "studentName": "Charles",
+        "studentEmail": "charles@gmail.com",
+        "studentPhone": 9899082213,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 21,
+        "studentName": "Yashini",
+        "studentEmail": "yashini@gmail.com",
+        "studentPhone": 9179082214,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 22,
+        "studentName": "Suganthi",
+        "studentEmail": "suganthi@gmail.com",
+        "studentPhone": 9809082215,
+        "batch": "B53 WE2 TAMIL",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 23,
+        "studentName": "Lahta",
+        "studentEmail": "latha@gmail.com",
+        "studentPhone": 9899082216,
+        "batch": "B53 WE2 TAMIL",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 24,
+        "studentName": "Varun",
+        "studentEmail": "varun@gmail.com",
+        "studentPhone": 9179082217,
+        "batch": "B53 WE2 TAMIL",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 25,
+        "studentName": "Reashma",
+        "studentEmail": "reashma@gmail.com",
+        "studentPhone": 9809082218,
+        "batch": "B53 WE3 English",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 26,
+        "studentName": "Lilly",
+        "studentEmail": "lilly@gmail.com",
+        "studentPhone": 9899082219,
+        "batch": "B53 WE3 English",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 27,
+        "studentName": "Yasodha",
+        "studentEmail": "yasodha@gmail.com",
+        "studentPhone": 9179082220,
+        "batch": "B53 WE3 English",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 28,
+        "studentName": "Reha",
+        "studentEmail": "reha@gmail.com",
+        "studentPhone": 9809082221,
+        "batch": "B51 WD5 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 29,
+        "studentName": "Nisha",
+        "studentEmail": "nisha@gmail.com",
+        "studentPhone": 9899082222,
+        "batch": "B51 WD5 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    },
+    {   
+        "studentId": 30,
+        "studentName": "Tharun",
+        "studentEmail": "tharun@gmail.com",
+        "studentPhone": 9179081000,
+        "batch": "B51 WD5 TAMIL",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "Full stack development"
+    }
+
+],
+[
+    {   
+        "studentId": 31,
+        "studentName": "Ajith",
+        "studentEmail": "ajith@gmail.com",
+        "studentPhone": 9809081001,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 32,
+        "studentName": "Shanumgam",
+        "studentEmail": "shanmugam@gmail.com",
+        "studentPhone": 9899081002,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 33,
+        "studentName": "Krish",
+        "studentEmail": "krish@gmail.com",
+        "studentPhone": 9179081003,
+        "batch": "B52 WD2 TAMIL",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    }
+
+],
+[
+    {   
+        "studentId": 34,
+        "studentName": "Akash",
+        "studentEmail": "akash@gmail.com",
+        "studentPhone": 9809081004,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 35,
+        "studentName": "Praveen",
+        "studentEmail": "praveen@gmail.com",
+        "studentPhone": 9899081005,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 36,
+        "studentName": "Kumaran",
+        "studentEmail": "kumaran@gmail.com",
+        "studentPhone": 9179081006,
+        "batch": "B51 WD3 HINDI",
+        "timing": "8:00 AM to 10:00 AM",
+        "course": "REACT"
+    }
+
+],
+[
+    {   
+        "studentId": 37,
+        "studentName": "Mukesh",
+        "studentEmail": "mukesh@gmail.com",
+        "studentPhone": 9809081007,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 38,
+        "studentName": "Prasanth",
+        "studentEmail": "prasanth@gmail.com",
+        "studentPhone": 9899081008,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 39,
+        "studentName": "Fasil",
+        "studentEmail": "fasil@gmail.com",
+        "studentPhone": 9179081009,
+        "batch": "B52 WD3 HINDI",
+        "timing": "6:00 PM to 9:00PM",
+        "course": "REACT"
+    }
+
+],
+[
+    {   
+        "studentId": 40,
+        "studentName": "Williams",
+        "studentEmail": "williams@gmail.com",
+        "studentPhone": 9809081200,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 41,
+        "studentName": "Krishna",
+        "studentEmail": "krishna@gmail.com",
+        "studentPhone": 9899081201,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 42,
+        "studentName": "Gomathi",
+        "studentEmail": "gomathi@gmail.com",
+        "studentPhone": 9179081202,
+        "batch": "B53 WE1 HINDI",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    }
+
+],
+[
+    {   
+        "studentId": 43,
+        "studentName": "David",
+        "studentEmail": "david@gmail.com",
+        "studentPhone": 9809083000,
+        "batch": "B53 WE2 MALAYALAM",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 44,
+        "studentName": "Moidhin",
+        "studentEmail": "moidhin@gmail.com",
+        "studentPhone": 98990893001,
+        "batch": "B53 WE2 MALAYALAM",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 45,
+        "studentName": "Yogesh",
+        "studentEmail": "yogesh@gmail.com",
+        "studentPhone": 9179083002,
+        "batch": "B53 WE2 MALAYALAM",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    }
+
+],
+[
+    {   
+        "studentId": 46,
+        "studentName": "Tashik",
+        "studentEmail": "tashik@gmail.com",
+        "studentPhone": 9809083003,
+        "batch": "B54 WE1 KANADA",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 47,
+        "studentName": "Yuvarani",
+        "studentEmail": "yuvarani@gmail.com",
+        "studentPhone": 9899083004,
+        "batch": "B54 WE1 KANADA",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    },
+    {   
+        "studentId": 48,
+        "studentName": "Mahesh",
+        "studentEmail": "mahesh@gmail.com",
+        "studentPhone": 9179083005,
+        "batch": "B54 WE1 KANADA",
+        "timing": "9:00 AM to 12:00 AM",
+        "course": "REACT"
+    }
+
+]
+
+]
+
