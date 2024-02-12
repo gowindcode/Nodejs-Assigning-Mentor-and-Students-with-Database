@@ -411,63 +411,9 @@ router.post("/assign-batch", async (req, res) => {
 
 //Write an API to show the previously assigned mentor for a particular student. = ✔ (admin can get this details from student batch)
 //using this method we need to get details, but input josn data must be placed in postman
-router.post("/previous-mentor", async (req, res) => {
-  try {
-    console.log("Previous mentor details request triggered:", req.body);
-
-    const { studentId, batch, mentor } = req.body;
-
-    const mentorDetails = await StudentModel.findOne({
-      studentId: studentId,
-      // batch: batch,
-      // mentor: mentor
-    });
-
-    if (mentorDetails) {
-      const mentorDetailsName = mentorDetails.mentor;
-      console.log("Previous mentor details:", mentorDetailsName);
-      res.status(200).json({ mentorDetailsName: mentorDetailsName });
-    } else {
-      console.log(
-        "No details found for the provided student ID, batch, and mentor."
-      );
-      res
-        .status(404)
-        .json({
-          message: "No details found for this student ID, batch, and mentor.",
-        });
-    }
-  } catch (error) {
-    console.error("Error:", error);
-    res.status(500).json({ message: "Server error.", error });
-  }
-});
 
 //Using student id to find previous mentor
 //http://localhost:5000/admin/previous-mentor/:id
-
-// router.get('/previous-mentor/:id', async (req, res) => {
-//     try {
-//         console.log("Previous mentor details request triggered:", req.body);
-
-//         // const { studentId, batch, mentor } = req.body;
-
-//         const mentorDetails = await StudentModel.findOne({ studentId: req.params.id});
-
-//         if (mentorDetails) {
-
-//             const mentorDetailsName = mentorDetails.mentor
-//             console.log("Previous mentor details:", mentorDetailsName);
-//             res.status(200).json({mentorDetailsName: mentorDetailsName});
-//         } else {
-//             console.log("No details found for the provided student ID, batch, and mentor.");
-//             res.status(404).json({ message: "No details found for this student ID, batch, and mentor." });
-//         }
-//     } catch (error) {
-//         console.error("Error:", error);
-//         res.status(500).json({ message: "Server error.", error });
-//     }
-// });
 
 router.get("/previous-mentor/:id", async (req, res) => {
   try {
@@ -494,7 +440,7 @@ router.get("/previous-mentor/:id", async (req, res) => {
       } else {
         const mentorDetailsName = mentorDetails.mentor;
         console.log("Previous mentor details:", mentorDetailsName);
-        res.status(200).json({ mentorDetailsName: mentorDetailsName });
+        res.status(200).json({ previousMentorName: mentorDetailsName });
       }
     } else {
       console.log("No details found for the provided student ID.");

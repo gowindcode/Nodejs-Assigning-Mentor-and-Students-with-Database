@@ -41,8 +41,8 @@
 },
 {   
     "mentorId": 5,
-    "mentorName": "Akash",
-    "mentorEmail": "akash@gmail.com",
+    "mentorName": "Krishv",
+    "mentorEmail": "krishv@gmail.com",
     "mentorPhone": 8889089123,
     "batches": ["B53 WE2 TAMIL"],
     "timing": ["9:00 AM to 12:00 AM"],
@@ -104,7 +104,7 @@
     "mentorName": "varsha",
     "mentorEmail": "varsha@gmail.com",
     "mentorPhone": 8889089618,
-    "batches": ["B53 WE2 TAMIL"],
+    "batches": ["B53 WE6 TAMIL"],
     "timing": ["9:00 AM to 12:00 AM"],
     "course": ["REACT", "mysql", "mongodb", "Nodejs"],
     "studentData" : []
