@@ -298,56 +298,6 @@ router.put("/update-student-schema", async (req, res) => {
 //select one mentor add multiple students - works well
 //assign one mentor to multiple students, match batch details wise.
 
-// const MAX_CAPACITY_PER_MENTOR = process.env.MAX_CAPACITY_PER_MENTOR || 20;
-
-// router.post('/assign-batch', async (req, res) => {
-//     try {
-//         console.log("Request to assign students to mentors received");
-
-//         // const batch = "B51 WD1 ENGLISH";
-//         const batch = req.body.batch;
-
-//         // Find all students with the specified batch
-//         const students = await StudentModel.find({ batch: batch });
-
-//         // Find mentors with the specified batch
-//         const mentors = await MentorModel.find({ batches: batch });
-
-//         const addedStudents = [];
-
-//         for (const student of students) {
-//             // Check if the student already has a mentor assigned
-//             if (!student.mentor) {
-//                 for (const mentor of mentors) {
-//                     // Check if the mentor has available slots for students
-//                     if (mentor.studentData.length < MAX_CAPACITY_PER_MENTOR) {
-//                         // Assign the mentor's name to the student
-//                         student.mentor = mentor.mentorName;
-//                         // Add the student to the mentor's studentData
-//                         mentor.studentData.push(student);
-//                         // Save changes for both student and mentor
-//                         await Promise.all([student.save(), mentor.save()]);
-//                         addedStudents.push(student);
-//                         console.log("Student assigned to mentor successfully.", student);
-//                         break; // Exit the loop after assigning a mentor to the student
-//                     }
-//                 }
-//             }
-//         }
-
-//         if (addedStudents.length > 0) {
-//             res.status(200).json({
-//                 message: "Students assigned to mentors successfully",
-//                 addedStudents: addedStudents
-//             });
-//         } else {
-//             res.status(403).json({ message: "Students are already assigned to mentors." });
-//         }
-//     } catch (error) {
-//         console.error("Error assigning students to mentors:", error);
-//         res.status(500).json({ message: "Server Error" });
-//     }
-// });
 
 const MAX_CAPACITY_PER_MENTOR = process.env.MAX_CAPACITY_PER_MENTOR || 20;
 
