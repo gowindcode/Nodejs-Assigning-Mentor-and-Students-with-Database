@@ -160,7 +160,7 @@ router.get('/all-mentors', async(req, res) => {
 // admin get mentor details by using his/her id http://localhost:5000/mentor/:id
 router.get('/mentor/:id', async(req, res) => {
     try {
-            const mentor = await MentorModel.findOne({mentortId: req.params.id})
+            const mentor = await MentorModel.findOne({mentorId: req.params.id})
             if(mentor) {
                 console.log("Mentor data successfully fetched from database.");
                 res.status(200);
