@@ -112,6 +112,8 @@ so we can check all details in this file named "NODEJS-ASSIGNING-MENTOR-AND-STUD
 
 in this folded we have seperate folders like model, routes, studentData.json and mentorData.json.
 
-kindly note this is github repository link
+kindly note this is github repository link 
+https://github.com/gowindcode/Nodejs-Assigning-Mentor-and-Students-with-Database.git
 
 please note this is render deployed link 
+https://assigning-mentor-and-students.onrender.com/
