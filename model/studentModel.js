@@ -13,7 +13,7 @@ const studentSchema = mongoose.Schema(
         course: {type: String, required: true},
         batchFS: {type: String, required: false, default: null},
         batchLS: {type: String, required: false, default: null}, 
-        mentor: {type: String, required: true, default: null},
+        mentor: {type: String, required: false, default: null},
         newMentor: {type: String, required: false, default: null},
         verified: {type: Boolean, required: true},
         role: {type: String, required: true, default: "student", enum:["student", "admin"]}

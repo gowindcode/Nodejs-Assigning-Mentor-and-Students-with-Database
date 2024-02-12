@@ -368,14 +368,14 @@
         "studentName": "Mukesh",
         "studentEmail": "mukesh@gmail.com",
         "studentPhone": 9809081007,
-        "batch": "B52 WD3 HINDI",
+        "batch": "B52 WD3 HINDI",   
         "timing": "6:00 PM to 9:00PM",
         "course": "REACT"
     },
     {   
         "studentId": 38,
-        "studentName": "Prasanth",
-        "studentEmail": "prasanth@gmail.com",
+        "studentName": "Prasanthan",
+        "studentEmail": "prasanthan@gmail.com",
         "studentPhone": 9899081008,
         "batch": "B52 WD3 HINDI",
         "timing": "6:00 PM to 9:00PM",

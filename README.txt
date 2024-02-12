@@ -51,6 +51,8 @@ http://localhost:5000/admin/update-student-schema
 admin get all sudents details(if mentor assigned hide students data, only show, mentor not assign students) = ✔
 http://localhost:5000/admin/all-students
 
+admin reassign student batch
+http://localhost:5000/admin/batch-reassign = ✔
 
 -----------------------------------<><><><><><<<><>>><><><><><>------------------------------
 
